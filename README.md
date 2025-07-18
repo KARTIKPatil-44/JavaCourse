@@ -17,11 +17,13 @@ This folder contains the foundational concepts I’ve learned as part of my Java
   - `if`, `if-else`, `switch`
 - ✅ **Loops**
   - `for`, `while`, `do-while`
+  ✅ **Patterns**
 - ✅ **Arrays**
   - 1D Arrays, Basic Problems
 - ✅ **Functions (Methods)**
 - ✅ **Basic Pattern Printing**
 - ✅ **Some Mini Assignments**
+  
 
 ---
 
