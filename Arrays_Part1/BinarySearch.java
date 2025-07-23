@@ -7,7 +7,7 @@ public class BinarySearch {
         while (start <= end) {
             int mid = (start + end) / 2;
 
-            if (arr[mid] == key) {
+            if (arr[mid] == key) { 
                 return mid;
             }
             if (arr[mid] < key) { // right

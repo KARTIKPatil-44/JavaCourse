@@ -67,7 +67,7 @@ public class somefunctions {
     // Fucntion to print the primes in range
     public static void primeInRange(int m) {
         for (int i = 2; i <= m; i++) {
-            if (isPrime(i)) {
+            if (isPrime(i)) { // hear isprime is a funtion which calculate the prime number or not 
                 System.out.print(i + " ");
             }
         }
