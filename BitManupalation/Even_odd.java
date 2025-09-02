@@ -1,5 +1,4 @@
-package BitManupalation;
-
+// Check a number is even or add 
 public class Even_odd {
     public static void EvenOdd(int n) {
         int bitmask = 1;
