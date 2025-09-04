@@ -21,7 +21,7 @@ public class Problems {
 
     public static void main(String[] args) {
         // System.out.println(PowerOfTowOrNot(15));
-        System.err.println(countSetBits(15));
+        System.out.println(countSetBits(15));
 
     }
 
